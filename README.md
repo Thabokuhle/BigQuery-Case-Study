@@ -19,19 +19,13 @@ Query	Objective
 - Q9	Categorize products by unit cost
 - Q10	Analyze spending levels for customers age 40+
 
-### Project structure
+### Project files
 
-  images/
-│── schema_screenshot.png
-│── bigquery_editor.png
-│── query_result_Q5.png
-│ query_result_Q8.png
-
-output_files/
-│- Q1_Query_result.csv
-│- Q2_Query_result.csv
-│- Q3_Query_result.csv
-|- Q4_Query_result.csv
+ - images
+ - Raw_Data
+ - Sql
+ - Out_file
+ - README.md
 
 
 
