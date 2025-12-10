@@ -7,12 +7,15 @@ The goal is to understand transaction patterns, customer demographics, product p
 
 ### 🧠 SQL Tasks (Q1–Q10)
 Query	Objective
-## Q1	Filter transactions for 2023
+
+Q1	Filter transactions for 2023
+
 SELECT *
 FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`
 WHERE EXTRACT(YEAR FROM Date) = 2023;
 
 Q2	Identify transactions above average spend
+
 SELECT *
 FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`
 WHERE `Total Amount` > (
@@ -21,11 +24,13 @@ FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`
 );
 
 Q3	Calculate total revenue
+
 SELECT 
 SUM(`Total Amount`) AS Total_Revenue
 FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`;
 
 Q4	Count distinct product categories
+
 SELECT DISTINCT `Product Category`
 FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`;
 
