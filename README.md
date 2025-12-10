@@ -8,16 +8,16 @@ The goal is to understand transaction patterns, customer demographics, product p
 ### 🧠 SQL Tasks (Q1–Q10)
 Query	Objective
 
-Q1	Filter transactions for 2023
-Q2	Identify transactions above average spend
-Q3	Calculate total revenue
-Q4	Count distinct product categories
-Q5	Sum total quantity sold per category
-Q6	Classify customers into age groups
-Q7	High-value transactions by gender
-Q8	Find categories with revenue > 5,000
-Q9	Categorize products by unit cost
-Q10	Analyze spending levels for customers age 40+
+- Q1	Filter transactions for 2023
+- Q2 	Identify transactions above average spend
+- Q3	Calculate total revenue
+- Q4	Count distinct product categories
+- Q5	Sum total quantity sold per category
+- Q6	Classify customers into age groups
+- Q7	High-value transactions by gender
+- Q8	Find categories with revenue > 5,000
+- Q9	Categorize products by unit cost
+- Q10	Analyze spending levels for customers age 40+
 
 
 
@@ -64,18 +64,31 @@ Q10	Analyze spending levels for customers age 40+
 
 ### 📈 Recommendations
 1️⃣ Focus on High-Revenue Categories
+
 - These categories generate the most income → increase inventory & marketing.
+  
 2️⃣ Support Low-Selling Categories
+
 - Use bundles, limited-time offers, and better placement to boost sales.
+  
 3️⃣ Prioritize Adult Customers (30–59)
+
 - Offer loyalty rewards, convenience products, and professional-focused campaigns.
+  
 4️⃣ Engage High-Value Shoppers
+
 - Provide VIP deals, personalized promotions, and exclusive offers.
+  
 5️⃣ Gender-Specific Targeting
+
 - Run targeted ads toward the gender with most high-value purchases.
+  
 6️⃣ Promote Moderate-Priced Products
+
 - They are the majority and can increase sales volume through bundles.
+  
 7️⃣ Upsell Customers Aged 40+
+
 - Use complementary product recommendations and loyalty discounts.
 
 ### 🏁 Conclusion
