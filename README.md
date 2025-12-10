@@ -24,7 +24,7 @@ Query	Objective
  - images
  - Raw_Data
  - Sql
- - Out_file
+ - Output_file
  - README.md
 
 
