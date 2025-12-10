@@ -11,8 +11,8 @@ Query	Objective
 Q1	Filter transactions for 2023
 
 SELECT *
-FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`
-WHERE EXTRACT(YEAR FROM Date) = 2023;
+- FROM `plated-hangout-480700-v9.Retail_data.Retail_sales`
+- WHERE EXTRACT(YEAR FROM Date) = 2023;
 
 Q2	Identify transactions above average spend
 
