@@ -73,7 +73,7 @@ Query	Objective
 ### 📈 Recommendations
 1️⃣ Focus on High-Revenue Categories
 
-- These categories generate the most income → increase inventory & marketing.
+- These categories generate the most income → increase inventory and marketing.
   
 2️⃣ Support Low-Selling Categories
 
